@@ -10,8 +10,7 @@
 
 
 ## Description
-This is a burger app, meant to keep track of all the different burgers you have tried.  
-Its kind of like a bucket list for burgers.
+A budget app used to track your spending. 
 
 ## Installation
 Must have node, mongodb, express, mongoose. 
