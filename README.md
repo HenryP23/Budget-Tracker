@@ -29,6 +29,6 @@ Henry
 You can contact me through my email henryhparrish@gmail.com
 
 ## Visual
-![ScreenShot](budgetPic.PNG)
+https://henryp23.github.io/EmployeeDirectory/
 
 
